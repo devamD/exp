@@ -1,0 +1,15 @@
+    .icon{
+                width: 32px;
+                height: 32px;
+                fill: #ccc;
+            }
+
+            .icon.is-check{
+                fill: #FE4365;
+            }
+
+            .icon.is-x10{
+                width: 270px;
+                height: 270px;
+            }
+
